@@ -16,7 +16,7 @@ main:
     url: /year-archive/
 
   - title: "CV"
-    url: /files/CV_WW.pdf/
+    url: https://wencyww.github.io/files/CV_WW.pdf
 
   - title: "Guide"
     url: /markdown/
