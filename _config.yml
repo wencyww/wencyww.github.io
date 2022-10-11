@@ -56,6 +56,12 @@ alexa_site_verification:
 yandex_site_verification:
 
 # Social Sharing
+twitter:
+  username:
+facebook:
+  username:
+  app_id:
+  publisher:
 og_image: # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -86,6 +92,7 @@ author:
   codepen:
   dribbble:
   flickr:
+  facebook:
   foursquare:
   github: "academicpages"
   google_plus:
