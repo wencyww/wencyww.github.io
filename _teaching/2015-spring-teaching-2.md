@@ -4,9 +4,11 @@ collection: teaching
 type: "Graduate Courses"
 permalink: /teaching/teaching-assistant-2
 venue: "University of Minnesota"
-date: 2021-09-01
+# date: 2021-09-01
 location: "Minneapolis, MN"
 ---
+
+<br>
 
 2020 - 2021 PA 5431 + HRIR 5655: Public Policy on Work and Pay
 
