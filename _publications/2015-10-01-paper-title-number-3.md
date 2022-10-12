@@ -9,8 +9,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-    Occupational licensing is more prevalent in the public
-
+Occupational licensing is more prevalent in the public
 sector in the U.S. relative to the private sector, but the influence
 of occupational regulation for these workers has not been analyzed in
 detail. Our study initially examines the influence of occupational
