@@ -1,13 +1,16 @@
 ---
 title: "The Effects of Occupational Licensing and Racial Difference on Wages and Wage Distributions"
 collection: publications
-# permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/paper-title-number-2
+status: in-progress
 # excerpt: "This paper is about the number 2. The number 3 is left for future work."
 # date: 2010-10-01
 # venue: "Journal 1"
 # paperurl: ""
 # citation: ""
 ---
+
+Working Draft
 
 This paper is trying to use multiple empirical methods to look at the kernel
 density distributions of wage between racial groups of Asian and White, and occupational
