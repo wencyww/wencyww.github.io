@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant - Miscellaneous Graduate Courses"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate Courses"
+permalink: /teaching/teaching-assistant-2
+venue: "University of Minnesota"
+date: 2021-09-01
+location: "Minneapolis, MN"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+2020 - 2021 PA 5431 + HRIR 5655: Public Policy on Work and Pay
 
-Heading 1
-======
+2020 - 2021 PA 5022: Labor Market Consequences of Economics Policies
 
-Heading 2
-======
+2021 PA 5033: Multivariate
 
-Heading 3
-======
+2021; 2017 PA 5032: Applied Regression
+
+2017 PA 5043: Economic and Demographic Data Analysis
+
+2016 - 2017 PA 5033: Introduction to Financial Management
