@@ -10,7 +10,7 @@ status: in-progress
 # citation: ""
 ---
 
-Working Draft
+<br>
 
 This paper is trying to use multiple empirical methods to look at the kernel
 density distributions of wage between racial groups of Asian and White, and occupational
