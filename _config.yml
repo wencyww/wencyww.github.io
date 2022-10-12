@@ -84,7 +84,7 @@ author:
   location: "Saint Paul, MN"
   employer:
   pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "http://yourfullgooglescholarurl.com"
+  googlescholar: "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7HoiW8VjuWNRVoK594UcJd6LpOvYfBy9fORrZ868in_OXy9wWFPakG1Yo-oHc6og-JvhXobU5YpELEjljqDhs_Atw9dg&user=ZQtJxDMAAAAJ"
   email:
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
@@ -100,7 +100,7 @@ author:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: "https://www.linkedin.com/in/wenchen-wang-a114b377"
+  linkedin: "wenchen-wang-a114b377"
   orcid: "http://orcid.org/yourorcidurl"
   pinterest:
   soundcloud:
