@@ -16,7 +16,7 @@ location: "Minneapolis, MN"
 
 2021: PA 5033 Multivariate
 
-2021; 2017: PA 5032 Applied Regression
+2021 & 2017: PA 5032 Applied Regression
 
 2017: PA 5043 Economic and Demographic Data Analysis
 
