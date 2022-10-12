@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Your Name / Site Title"
+title: "Wenchen Wang"
 title_separator: "-"
 name: &name "Wenchen Wang"
 description: &description "personal description"
@@ -83,7 +83,7 @@ author:
   bio: "wang6054@umn.edu"
   location: "Saint Paul, MN"
   employer:
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed:
   googlescholar: "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7HoiW8VjuWNRVoK594UcJd6LpOvYfBy9fORrZ868in_OXy9wWFPakG1Yo-oHc6og-JvhXobU5YpELEjljqDhs_Atw9dg&user=ZQtJxDMAAAAJ"
   email:
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
@@ -101,7 +101,7 @@ author:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin: "wenchen-wang-a114b377"
-  orcid: "http://orcid.org/yourorcidurl"
+  orcid:
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
