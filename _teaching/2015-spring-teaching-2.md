@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Courses"
 permalink: /teaching/teaching-assistant-2
 venue: "University of Minnesota"
-# date: 2021-09-01
+date: 2021-09-01
 location: "Minneapolis, MN"
 ---
 
