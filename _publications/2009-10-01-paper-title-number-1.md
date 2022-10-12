@@ -10,7 +10,7 @@ status: in-progress
 # citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1)."
 ---
 
-Working Draft
+<br></br>
 
 Licensed occupations can be both complements to and substitutes for one another in
 providing a service, and the extent as of who can do what tasks, which is the so called “scope of
