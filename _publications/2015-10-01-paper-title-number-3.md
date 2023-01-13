@@ -10,7 +10,7 @@ file: "WW_market_paper"
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-<a href="https://wencyww.github.io/files/{{ post.file }}.pdf"> Working Draft</a>
+<a href="https://wencyww.github.io/files/WW_market_paper.pdf"> Working Draft</a>
 <br>
 
 Occupational licensing is more prevalent in the public
