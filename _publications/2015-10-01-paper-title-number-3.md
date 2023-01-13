@@ -2,6 +2,7 @@
 title: "The Labor Market Effects of Occupational Licensing in the Public Sector"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
+file: "WW_market_paper"
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 # date: 2015-10-01
 # venue: 'Journal 1'
