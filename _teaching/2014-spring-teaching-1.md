@@ -6,6 +6,7 @@ permalink: /teaching/2022-teaching-1
 venue: "University of Minnesota"
 date: 2022-09-01
 location: "Minneapolis, MN"
+file: "WW_market_paper"
 ---
 
 / [ClassInfo](http://classinfo.umn.edu/?term=1229&institution=UMNTC&subject=PA&catalog_nbr=3003) /
