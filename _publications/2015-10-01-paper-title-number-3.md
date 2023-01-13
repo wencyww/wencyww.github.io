@@ -1,6 +1,6 @@
 ---
 title: "The Labor Market Effects of Occupational Licensing in the Public Sector"
-collection: publications
+# collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 file: "WW_market_paper"
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
@@ -10,6 +10,7 @@ file: "WW_market_paper"
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
+<a href="https://wencyww.github.io/files/{{ post.file }}.pdf"> Working Draft</a>
 <br>
 
 Occupational licensing is more prevalent in the public

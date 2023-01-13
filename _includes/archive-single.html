@@ -34,9 +34,9 @@
     <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-    {% if post.file %}
-    <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i><a href="https://wencyww.github.io/files/{{ post.file }}.pdf"> Working Draft</a></strong></p>
-    {% elsif post.collection == 'teaching' %}
+    <!-- {% if post.file %}
+    <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i><a href="https://wencyww.github.io/files/{{ post.file }}.pdf"> Working Draft</a></strong></p> -->
+    {% if post.collection == 'teaching' %}
     <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' %}
     <!-- <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
